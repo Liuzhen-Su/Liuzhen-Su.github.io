@@ -18,7 +18,7 @@ nav {
 	cursor: default;
 }
 .top-nav ul,li,a{
-    width：20%
+    
     color: #FFFFFF;
 	
 	font-size: 16px;
@@ -32,6 +32,7 @@ nav ul {
 }
 nav li {
 	display: inline;
+	width：20%
 	position: relative;
 }
 nav a {
