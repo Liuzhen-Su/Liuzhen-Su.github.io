@@ -18,9 +18,9 @@ nav {
 	cursor: default;
 }
 .top-nav ul,li,a{
-    
+    width：20%
     color: #FFFFFF;
-	padding: 0.2em 0.6em;
+	
 	font-size: 16px;
 	font-weight: 500;
 	text-align: center;
